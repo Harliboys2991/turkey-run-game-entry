@@ -1,7 +1,11 @@
 # Gobble Dash — The Great Thanksgiving Escape
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/Harliboys2991/turkey-run-game-entry/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/Harliboys2991/turkey-run-game-entry/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 A complete original turkey escape game for the make.fun bounty
-`turkey-run-game-01`. It runs in a desktop browser from static files, with no
+[`turkey-run-game-01`](https://make.fun/bounty/turkey-run-game-01). It runs in a desktop browser from static files, with no
 network request, played with keyboard and mouse.
 
 ## The game
